@@ -65,7 +65,8 @@ c.close()
 ## OUPUT
 ## CLIENT:
 <img width="690" height="166" alt="image-1" src="https://github.com/user-attachments/assets/94058fd7-1c59-4912-9969-194612895fa0" />
-## SERVER
+
+## SERVER:
 <img width="699" height="221" alt="image" src="https://github.com/user-attachments/assets/a6fad440-3bd5-4ff6-9a27-1dd00f461843" />
 
 ## RESULT
